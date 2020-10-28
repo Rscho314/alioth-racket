@@ -1,0 +1,8 @@
+*.txt
+*.fasta
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
